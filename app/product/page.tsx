@@ -148,7 +148,7 @@ const Product = () => {
 {/* image 1 */}
 <div className="w-[285px] h-[2051px] flex flex-col">
    <div className="relative">
-<img src="/images/showpiece.png" alt="image-1" className="w-[285px] h-[301px]"/>
+<Image src="/images/showpiece.png" alt="image-1" className="w-[285px] h-[301px]"/>
 <div className="absolute top-2 right-4 w-[48px] h-[48px] bg-[#E97171] rounded-full">
    <p className={`${poppins.className} text-[16px] text-white font-medium mt-3 mx-1`}> -30% </p>
 </div>
@@ -168,7 +168,7 @@ const Product = () => {
 
      {/* image 2 */}
      <div className="w-[285px] h-[446px] flex flex-col">
-<img src="/images/leviosa.png" alt="image-2" className="w-[285px] h-[301px]"/>
+<Image src="/images/leviosa.png" alt="image-2" className="w-[285px] h-[301px]"/>
 
 
 <div className="w-[285px] h-[145px] flex flex-col bg-[#B0B0B0]/20">
@@ -185,7 +185,7 @@ const Product = () => {
        {/* image 3 */}
        <div className="w-[285px] h-[446px] flex flex-col">
            <div className="relative">
-<img src="/images/sofa.png" alt="image-1" className="w-[285px] h-[301px]"/>
+<Image src="/images/sofa.png" alt="image-1" className="w-[285px] h-[301px]"/>
 <div className="absolute top-2 right-4 w-[48px] h-[48px] bg-[#E97171] rounded-full">
    <p className={`${poppins.className} text-[16px] text-white font-medium mt-3 mx-1`}> -50% </p>
 </div>
@@ -206,7 +206,7 @@ const Product = () => {
        {/* image 4 */}
        <div className="w-[285px] h-[446px] flex flex-col">
            <div className="relative">
-<img src="/images/sofaset.png" alt="image-1" className="w-[285px] h-[301px]"/>
+<Image src="/images/sofaset.png" alt="image-1" className="w-[285px] h-[301px]"/>
 <div className="absolute top-2 right-4 w-[48px] h-[48px] bg-[#2EC1AC] rounded-full">
    <p className={`${poppins.className} text-[16px] text-white font-medium mt-3 mx-2`}> New </p>
 </div>
