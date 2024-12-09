@@ -3,7 +3,6 @@ import Footer from "@/components/footer";
 import { Poppins } from 'next/font/google';
 import Image from 'next/image';
 import Link from 'next/link';
-import Product from '@/product'
 
 const poppins = Poppins({ subsets: ['latin'], weight: ['400'] });
 
