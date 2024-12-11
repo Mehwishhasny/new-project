@@ -6,7 +6,7 @@ const poppins = Poppins({ subsets: ['latin'], weight: ['600'] });
 
 const Footer = () => {
     return(
-        <div className="w-full h-[505px] md:translate-y-[650vh] translate-y-[1350vh] flex-col absolute items-center justify-end overflow-hidden">
+        <div className="w-full h-[505px] flex md:translate-y-[650vh] translate-y-[1350vh] flex-col absolute items-center justify-end overflow-hidden">
 
             <div className="flex md:flex-row flex-col md:w-[1000px] w-full h-[419px]">
                 {/* div left */}
